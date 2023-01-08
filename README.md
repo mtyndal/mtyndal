@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+
 ### Hi there! I'm MaKayla. 🙋🏾‍♀️
 
 Self taught analyst. 
@@ -17,4 +17,4 @@ Currently :
 
 📫 How to reach me: 
 https://www.linkedin.com/in/makaylatyndal/
--->
+
