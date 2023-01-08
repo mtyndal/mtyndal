@@ -1,16 +1,20 @@
 ### Hi there 👋
 
 <!--
-**mtyndal/mtyndal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! I'm MaKayla. 🙋🏾‍♀️
 
-Here are some ideas to get you started:
+Self taught analyst. 
+Former claims adjuster. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Tools: SQL, Tableau, Power BI 
+Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualization, Relationtional Databases 
+
+Currently :
+- Learning database administration and database design 
+- Advancing SQL and Tableau skills 
+- Brushing up on Python 
+
+
+📫 How to reach me: 
+https://www.linkedin.com/in/makaylatyndal/
 -->
